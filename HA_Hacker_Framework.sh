@@ -28,7 +28,7 @@ echo -e "\n" ; echo -e "\n" ;
 
 echo -e "\nH-Bot is Starting Hacker's Framework!\n" ; echo -e "\n" ;
 
-./msfconsole
+sudo msfconsole
 
 echo -e "\n"
 
