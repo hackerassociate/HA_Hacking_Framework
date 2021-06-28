@@ -25,7 +25,7 @@ curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/t
 **Step-3 :: To check to see if the database was set up, run the following command: **
 
 ```
- db_status.   
+ db_status   
  
 ```
 
